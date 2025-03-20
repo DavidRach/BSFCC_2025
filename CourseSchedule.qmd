@@ -1,0 +1,77 @@
+---
+layout: full
+format:
+  html: default
+embed-resources: TRUE
+---
+
+![](BISCC2024_screenshot.png){fig-align="center" width="50%"}
+
+## **The Baltimore Introductory Spectral Cytometry Course 2024**
+
+[**Monday, April 22, 2024:**]{.underline}
+
+08:45 - 09:00 AM: Orientation
+
+09:00 - 09:50 AM: Introduction to Flow Cytometry
+
+10:00 - 10:50 AM: Cellular Markers and Immunology
+
+11:00 - 11:50 AM: Introduction to SpectroFlo
+
+12:00 - 01:30 PM: Lunch
+
+01:30 - 02:00 PM: Laboratory and Core Protocol Roundup
+
+02:00 - 04:00 PM: First Spectral Flow Experiment Acquisition
+
+[**Tuesday, April 23, 2024:**]{.underline}
+
+09:00 - 10:20 AM: Unmixing and Spectral Flow Cytometry
+
+10:30 - 11:50 AM: Fluorophores and Panel Design
+
+12:00 - 01:30 PM: Lunch
+
+01:30 - 02:00 PM: Experiment Roundup
+
+02:00 - 04:00 PM: Second Spectral Flow Experiment Acquisition
+
+{{< pagebreak >}}
+
+[**Wednesday, April 24, 2024**]{.underline}:
+
+09:00 - 12:50 AM: Cytek Training Workshop - Good and Bad Operation
+
+12:00 - 01:30 PM: Lunch - Sponsored by Cytek
+
+01:30 - 02:00 PM: Acquisition Roundup
+
+02:00 - 04:00 PM: Third Spectral Flow Experiment Acquisition
+
+[**Thursday, April 25, 2024**]{.underline}:
+
+09:00 - 10:20 AM: Single Color and Autofluorescence Troubleshooting
+
+10:30- 11:50 AM: Special Topic Lecture.
+
+12:00 - 01:30 PM: Lunch
+
+01:30 - 02:00 PM: Troubleshooting Complex Sample Roundup
+
+02:00 - 04:00 PM: Fourth Spectral Flow Experiment Acquisition
+
+
+[**Friday, April 26, 2024**]{.underline}:
+
+09:00 - 11:50 AM: Special Topics - Parallel Tracks
+
+12:00 - 01:30 PM: Lunch
+
+01:30 - 02:00 PM: Special Topics Roundup
+
+02:00 - 04:30 PM: Special Topics - Parallel Tracks
+
+04:30 - 5:00 PM: Conclusion
+
+
