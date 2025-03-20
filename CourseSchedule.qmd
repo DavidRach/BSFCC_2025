@@ -7,9 +7,9 @@ embed-resources: TRUE
 
 ![](BISCC2024_screenshot.png){fig-align="center" width="50%"}
 
-## **The Baltimore Introductory Spectral Cytometry Course 2024**
+## **The Baltimore Spectral Flow Cytometry Course 2025**
 
-[**Monday, April 22, 2024:**]{.underline}
+[**Monday, May 19, 2025:**]{.underline}
 
 08:45 - 09:00 AM: Orientation
 
@@ -25,7 +25,7 @@ embed-resources: TRUE
 
 02:00 - 04:00 PM: First Spectral Flow Experiment Acquisition
 
-[**Tuesday, April 23, 2024:**]{.underline}
+[**Tuesday, May 20, 2025:**]{.underline}
 
 09:00 - 10:20 AM: Unmixing and Spectral Flow Cytometry
 
@@ -39,7 +39,7 @@ embed-resources: TRUE
 
 {{< pagebreak >}}
 
-[**Wednesday, April 24, 2024**]{.underline}:
+[**Wednesday, May 21, 2025**]{.underline}:
 
 09:00 - 12:50 AM: Cytek Training Workshop - Good and Bad Operation
 
@@ -49,7 +49,7 @@ embed-resources: TRUE
 
 02:00 - 04:00 PM: Third Spectral Flow Experiment Acquisition
 
-[**Thursday, April 25, 2024**]{.underline}:
+[**Thursday, May 22, 2025**]{.underline}:
 
 09:00 - 10:20 AM: Single Color and Autofluorescence Troubleshooting
 
@@ -62,7 +62,7 @@ embed-resources: TRUE
 02:00 - 04:00 PM: Fourth Spectral Flow Experiment Acquisition
 
 
-[**Friday, April 26, 2024**]{.underline}:
+[**Friday, May 23, 2025**]{.underline}:
 
 09:00 - 11:50 AM: Special Topics - Parallel Tracks
 

@@ -17,21 +17,14 @@ author:
     affiliations: 
       - Director, Flow Cytometry Shared Service
       - Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD, United States.
-    
-  - name: Nevil Singh
-    orcid: 0000-0002-8384-9290
-    corresponding: false
-    email:  nsingh@som.umaryland.edu
-    roles:
-      - Organization
-    affiliations: Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD, United States.
-date: "02/28/2024"
+date: "03/20/2025"
+bibliography: Citations.bib
+csl: frontiers-in-immunology.csl
+link-bibliography: true
+link-citations: true
 layout: full
 format:
-  docx:
-   reference-doc: custom-reference-doc.docx
-link-citations: true
-link-bibliography: true
+  docx: default
 toc: true
 toc-location: right
 embed-resources: TRUE
